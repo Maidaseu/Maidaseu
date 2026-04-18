@@ -1,16 +1,19 @@
-## Hi there 👋
+Building clean, minimal, and functional things.
 
-<!--
-**Maidaseu/Maidaseu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Focus
 
-Here are some ideas to get you started:
+* Next.js
+* TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+* Portfolio (in progress)
+* Pomodoro Tracker web application
+
+## Philosophy
+
+Keep it simple. Avoid unnecessary complexity.
+
+## Email
+
+maidaseucontact.vertical024@passmail.net
