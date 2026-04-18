@@ -1,8 +1,4 @@
-# Maidaseu
 
-**Frontend developer building fast, minimal web applications.**
-
----
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; color: white;">
   <h2 style="margin: 0 0 1.5rem 0; color: white;">📊 Profile Snapshot</h2>
@@ -22,22 +18,6 @@
 
 ---
 
-## About me
-
-- 🎯 Frontend-focused with a passion for clean, functional code
-- ⚡ Building minimal, fast web applications
-- 📍 Based in Ireland
-- 💻 Skilled in modern web development and functional programming
-
----
-
-## Featured Repositories
-
-- **[odin-recipes](https://github.com/Maidaseu/odin-recipes)** — Recipe collection project
-- **[odin-fork](https://github.com/Maidaseu/odin-fork)** — Forked from octocat/Spoon-Knife
-
----
-
 ## Languages & Tools
 
 **Languages:** TypeScript • JavaScript • Python • C
@@ -45,7 +25,3 @@
 **Frameworks & Libraries:** Next.js • React • Flask
 
 **Tools & Databases:** SQLite • Vercel • Git
-
----
-
-**Let's build something great together!** [View all my repositories](https://github.com/Maidaseu?tab=repositories)
