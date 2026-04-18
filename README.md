@@ -1,5 +1,4 @@
-
-
+Building clean, minimal, and functional things.
 
 ---
 
